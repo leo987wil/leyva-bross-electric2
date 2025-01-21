@@ -2075,8 +2075,8 @@ button {
 
 .button.button-primary, .button.button-primary:focus {
 	color: #fff;
-	background-color: #007bff;
-	border-color: #007bff;
+	background-color: #7fbfe9;
+	border-color: #7fbfe9;
 }
 
 .button.button-primary:hover, .button.button-primary:active {
@@ -9186,8 +9186,8 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .ui-to-top:hover {
-	color: #fff;
-	background: #4854ed;
+	color: #000;
+	background: #ffe400;
 	text-decoration: none;
 }
 
